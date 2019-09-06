@@ -1,0 +1,164 @@
+
+{
+"data": [
+    {
+    "id": "1", 
+    "name": "FreakScence",
+    "type": "Oil on Canvas",
+    "series":"Electric Shock Therapy",
+    "description": "FreakScene is an obscene attempt to control or conceal emotions.  Each underlying figure catalogs a moment filled with rage, consumed by laughter, or grief, that is overshadowed by the guilt, confusion, and painstaking desire to escape.",
+    "img_url": "assets/img/portfolio/grid/freakScence.png"
+
+},
+{
+    "id": "2", 
+    "name": "Vacant Lot",
+    "type": "Oil and Pastels on Canvas",
+    "series":"Electric Shock Therapy",
+    "description": "Vacant Lot explores the complexity and depth of the emotional landscape and depicts emotions as live, dynamic entities that dance with and mock each other within the psyche.",
+    "img_url": "assets/img/portfolio/grid/Vacant Lot.png"
+},
+{
+    "id": "3", 
+    "name": "Consider the Lobster",
+    "type": "Oil and Pastels on Canvas",
+    "series":"Electric Shock Therapy",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Consider the Lobster.png"
+},
+{
+    "id": "4", 
+    "name": "Atop the Radio Tower",
+    "type": "Mixed Media on Canvas",
+    "series":"Electric Shock Therapy",
+    "description": "Atop the Radio Tower plays into the humor that is written into our conceptions of reality by turning the power of truth on its head to explore the influence of ideation.  Each compositional element among the mélange of forms is unique and powerful in its own right but interacts with and influences the other elements much like loud sounds, vibrant colors and intense emotions dance and crash in dreams or within the mind.  Conceptually, this piece explores how false memories, dreams and illusions can have a profound influence on self-identity.",
+    "img_url": "assets/img/portfolio/grid/Atop the Radio Tower.png"
+},
+{
+    "id": "5", 
+    "name": "Room with a View",
+    "type": "Oil and Spray Paint on Canvas",
+    "series":"Electric Shock Therapy",
+    "description": "Room with a View was inspired by the dire need to escape the societal pressure to embody a specific identity.  The mystical, red-boxed landscape near the top of this piece suggests the existence of a portal into an ethereal utopia, while the dreamy, psychedelic composition mocks the desperation, impulsivity, and tragedy of a societal revolution.",
+    "img_url": "assets/img/portfolio/grid/Room with a View.jpg"
+},
+{
+    "id": "6", 
+    "name": "Death by Fusion",
+    "type": "Oil on Canvas",
+    "series":"Electric Shock Therapy",
+    "description": "Inspired by a codependent relationship, Death by Fusion depicts the meshing of two entities and their seemingly graceful dissociation from one another.  Conceptually, this piece serves as a euphemism for codependency by incorporating simple elements that disregard chaotic intensity and mock cyclical dependence.",
+    "img_url": "assets/img/portfolio/grid/Death by Fusion.png"
+},
+{
+    "id": "7",
+    "name": "My Halogen Gal",
+    "type": "Oil, Acrylic, and Pastels on Canvase3",
+    "series":"Portrait",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/My Halogen Gal.png"
+},{
+    "id": "8",
+    "name": "Mild Lunacy",
+    "type": "Oil on Canvas",
+    "series":"Electric Shock Therapy",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Mild Lunacy.png"
+},
+{
+    "id": "9",
+    "name": "Roads",
+    "type": "Oil on Canvas",
+    "series":"Electric Shock Therapy",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Roads.png"
+},
+{
+    "id": "10", 
+    "name": "Mercy",
+    "type": "Mixed Media on Canvas",
+    "series":"Early Works",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Mercy.png"
+},
+{
+    "id": "11", 
+    "name": "George",
+    "type": "Oil on Canvas",
+    "series":"Portraits",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/George.png"
+},
+{
+    "id": "12", 
+    "name": "Ticky Tacky",
+    "type": "Oil on Canvas",
+    "series":"Early Works",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Ticky Tacky.png"
+},
+{
+    "id": "13",
+    "name": "Levels",
+    "type": "Acrylic on Wooden Board ",
+    "series":"Early Works",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Levels.png"
+},{
+    "id": "14", 
+    "name": "City of Blood",
+    "type": "Acrylic on Canvas",
+    "series":"Early Works",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/City of Blood.png"
+},{
+    "id": "15",
+    "name": "Parts Unknown",
+    "type": "Olive Oil on Canvas",
+    "series":"Early Works",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Parts Unknown.png"
+},{
+    "id": "16",
+    "name": "Party",
+    "type": "Acrylic on Canvas",
+    "series":"Early Works",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Party.png"
+},{
+    "id": "17", 
+    "name": "Arrival",
+    "type": "Acrylic and Oil on Canvas",
+    "series":"Portraits",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Arrival.png"
+},{
+    "id": "18", 
+    "name": "Space",
+    "type": "Acrylic on Canvas",
+    "series":"Early Works",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Space.png"
+},{
+    "id": "19", 
+    "name": "Madame",
+    "type": "Acrylic on Canvas",
+    "series":"Early Works",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Madame.png"
+},{
+    "id": "20", 
+    "name": "Matilda",
+    "type": "Acrylic on Canvas",
+    "series":"Portraits",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Matilda.png"
+},{
+    "id": "21", 
+    "name": "Untitled",
+    "type": "Acrylic on Canvas",
+    "series":"Early Works",
+    "description": "",
+    "img_url": "assets/img/portfolio/grid/Untitled.png"
+}]
+}
