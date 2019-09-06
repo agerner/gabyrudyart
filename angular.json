@@ -1,0 +1,120 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "projects",
+  "projects": {
+    "gRudyArt": {
+      "projectType": "application",
+      "schematics": {},
+      "root": "",
+      "sourceRoot": "src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist",
+            "index": "src/index.html",
+            "main": "src/main.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.app.json",
+            "aot": false,
+            "assets": [
+              "src/favicon.ico",
+              "src/assets"
+            ],
+            "styles": [
+              "src/styles.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/animated-heading.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/custom.css",
+              "src/assets/css/elements.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/css/jquery.fancybox.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/normalize.css",
+              "src/assets/css/owl.carousel.css",
+              "src/assets/css/responsive.css",
+              "src/assets/css/slick.css",
+              "src/assets/css/slick.min.css",
+              "src/assets/css/themify-icons.css"
+            ],
+            "scripts": [
+              "src/assets/js/vendor/bootstrap.min.js",
+              "src/assets/js/vendor/jquery-1.12.4.min.js",
+              "src/assets/js/vendor/modernizr-2.8.3.min.js",
+              "src/assets/js/active.js",
+              "src/assets/js/custom.js",
+              "src/assets/js/instafeed.min.js",
+              "src/assets/js/jquery.circlechart.js",
+              "src/assets/js/jquery.fancybox.pack.js",
+              "src/assets/js/jquery.isotope.js",
+              "src/assets/js/jquery.validate.min.js",
+              "src/assets/js/main.js",
+              "src/assets/js/one-page-nav.js",
+              "src/assets/js/onepage.js",
+              "src/assets/js/plugins.js",
+              "src/assets/js/shopno.google.map.js",
+              "src/assets/js/slick.min.js",
+              "src/assets/js/isotope.pkgd.js"
+            ]
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "gRudyArt:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "gRudyArt:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "gRudyArt:build"
+          }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
+        }
+      }
+    }
+  },
+  "defaultProject": "gRudyArt"
+}
