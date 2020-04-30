@@ -28,7 +28,7 @@
     "express": "^4.17.1",
     "google-maps": "^3.3.0",
     "isotope-layout": "^3.0.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-circlechart": "^2.3.0",
     "jquery-validation": "^1.19.1",
     "jquery.fancybox": "^2.1.5",
