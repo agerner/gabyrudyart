@@ -30,7 +30,7 @@
     "isotope-layout": "^3.0.6",
     "jquery": "^3.4.1",
     "jquery-circlechart": "^2.3.0",
-    "jquery-validation": "^1.19.1",
+    "jquery-validation": "^1.19.3",
     "jquery.fancybox": "^2.1.5",
     "lodash": "^4.17.15",
     "magnific-popup": "^1.1.0",
